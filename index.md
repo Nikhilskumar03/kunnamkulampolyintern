@@ -2,7 +2,7 @@
 ## day 2
  PROGRAM 1:-Tinkercad blinking of led without switch
  
-![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-09%2012-10-52.png)
+![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-09%2013-03-54.png)
 
 
 
