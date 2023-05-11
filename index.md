@@ -1,5 +1,11 @@
 # 10 Days Internship for Govt Polytechnic, Kunnamkulam from 08-05-23 to 20-05-23
 
+## DAY 1(8-05-2023)
+1. Created a github account
+2. Created a profile 
+3. Basic syntax of github
+
+
 ## DAY 2(9-05-2023)
 
  **PROGRAM 1:-Tinkercad,blinking of led without switch**
