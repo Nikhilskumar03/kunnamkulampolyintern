@@ -80,6 +80,44 @@ void loop()
 
 
 
+**PROGRAM 6:- Tinkercad,blinking of 4 led's with delay using an ARDUINO**
+
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(13,LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(12,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(8,HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(8,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(7,HIGH);
+  delay(150); // Wait for 1000 millisecond(s)
+  digitalWrite(7,LOW);
+  delay(150); // Wait for 1000 millisecond(s)
+}
+```
+
+![no image]()
+
+
+
 
 
 
