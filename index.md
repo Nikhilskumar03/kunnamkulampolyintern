@@ -2,8 +2,12 @@
 
 ## DAY 1(8-05-2023)
 1. Created a github account
+
 2. Created a profile 
-3. Basic syntax of github
+
+**3. Basic syntax of github:-**
+
+![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2012-08-09.png)
 
 
 ## DAY 2(9-05-2023)
