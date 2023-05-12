@@ -22,7 +22,7 @@
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-09%2012-39-49.png)
 
-[Tinker this blinking of led with switch]()
+[Tinker this blinking of led with switch](https://www.tinkercad.com/things/6wbSky5emDK)
 
 
 ## DAY 3(11-05-2023)
@@ -30,6 +30,8 @@
 **PROGRAM 3:- Tinkercad,blinking of led with AND gate(IC 7408)**
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2010-44-29.png)
+
+[Tinker this blinking of led weith an AND gate(IC 7408)]()
 
 
 **PROGRAM 4:- Tinkercad,blinking of led with an ARDUINO**
@@ -53,6 +55,8 @@ void loop()
 ```
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2011-16-02.png)
+
+[Tinker this blinking of led with an ARDUINO]()
 
 **PROGRAM 5:- Tinkercad,blinking of 2 led's with delay using an ARDUINO**
 
@@ -81,6 +85,8 @@ void loop()
 ```
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2012-57-12.png)
+
+[Tinker this blinking of 2 led's with delay using an ARDUINO]()
 
 
 
@@ -119,6 +125,8 @@ void loop()
 ```
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2014-22-45.png)
+
+[Tinker this blinking of 4 led's with delay using asn ARDUINO]()
 
 
 
