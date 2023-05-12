@@ -31,7 +31,7 @@
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2010-44-29.png)
 
-[Tinker this blinking of led weith an AND gate(IC 7408)]()
+[Tinker this blinking of led weith an AND gate(IC 7408)](https://www.tinkercad.com/things/36RnXE8gj9i)
 
 
 **PROGRAM 4:- Tinkercad,blinking of led with an ARDUINO**
@@ -56,7 +56,7 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2011-16-02.png)
 
-[Tinker this blinking of led with an ARDUINO]()
+[Tinker this blinking of led with an ARDUINO](https://www.tinkercad.com/things/fTEVD2KHXuQ)
 
 **PROGRAM 5:- Tinkercad,blinking of 2 led's with delay using an ARDUINO**
 
@@ -126,7 +126,7 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2014-22-45.png)
 
-[Tinker this blinking of 4 led's with delay using asn ARDUINO]()
+[Tinker this blinking of 4 led's with delay using asn ARDUINO](https://www.tinkercad.com/things/9fzQegn6L8l)
 
 
 
