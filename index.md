@@ -86,7 +86,7 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2012-57-12.png)
 
-[Tinker this blinking of 2 led's with delay using an ARDUINO]()
+[Tinker this blinking of 2 led's with delay using an ARDUINO](https://www.tinkercad.com/things/67GfHPwgGPM)
 
 
 
