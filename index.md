@@ -126,12 +126,12 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-11%2014-22-45.png)
 
-[Tinker this blinking of 4 led's with delay using asn ARDUINO](https://www.tinkercad.com/things/9fzQegn6L8l)
+[Tinker this blinking of 4 led's with delay using an ARDUINO](https://www.tinkercad.com/things/9fzQegn6L8l)
 
 
 ##DAY 5(15-05-2023)
 
-**Program 7:- Tinkercad, working of analog potentiometer**
+**Program 7:- Tinkercad, working of analog potentiometer using an ARDUINO**
 
 ```
 
@@ -150,7 +150,9 @@ void loop() {
   
 ```
 
-![no image]()
+![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2014-14-35.png)
+
+[Tinker this working of analog potentiometer using an ARDUINO]()
 
 
 
