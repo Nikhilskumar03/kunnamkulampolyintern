@@ -260,6 +260,8 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2015-32-59.png)
 
+[Tinker this working of 7 segment using an ARDUINO](https://www.tinkercad.com/things/eOdNtEzZ7Br)
+
 
 
 
