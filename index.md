@@ -129,6 +129,31 @@ void loop()
 [Tinker this blinking of 4 led's with delay using asn ARDUINO](https://www.tinkercad.com/things/9fzQegn6L8l)
 
 
+##DAY 5(15-05-2023)
+
+**Program 7:- Tinkercad, working of analog potentiometer**
+
+```
+
+const int potPin = A0;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int potValue = analogRead(potPin);
+  Serial.println(potValue);
+  delay(100);
+}
+  
+  
+```
+
+![no image]()
+
+
+
 
 
 
