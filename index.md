@@ -128,12 +128,12 @@ void loop()
 
 [Tinker this blinking of 4 led's with delay using an ARDUINO](https://www.tinkercad.com/things/9fzQegn6L8l)
 
-##DAY 4(12-05-2023)
+## DAY 4(12-05-2023)
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2015-05-51.png)
 
 
-##DAY 5(15-05-2023)
+## DAY 5(15-05-2023)
 
 **Program 7:- Tinkercad, working of analog potentiometer using an ARDUINO**
 
