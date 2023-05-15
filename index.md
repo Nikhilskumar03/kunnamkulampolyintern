@@ -158,7 +158,7 @@ void loop() {
 
 [Tinker this working of analog potentiometer using an ARDUINO](https://www.tinkercad.com/things/cWcHioKYK4y)
 
-**PROGRAM 8:- 
+**PROGRAM 8:- Tinkercad, working of 7 segment using an ARDUINO**
 
 ```
 
@@ -184,7 +184,7 @@ void loop()
   digitalWrite(6,LOW);
   digitalWrite(7,LOW);
   digitalWrite(8,HIGH);
-  delay(1000); // Wait for 1000 millisecond(s
+  delay(1000); // Wait for 1000 millisecond(s)
   digitalWrite(4,LOW);
   digitalWrite(3,LOW);
   digitalWrite(5,HIGH);
@@ -258,7 +258,7 @@ void loop()
 
 ```
 
-![no image]()
+![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2015-32-59.png)
 
 
 
