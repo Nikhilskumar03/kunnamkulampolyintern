@@ -135,7 +135,7 @@ void loop()
 
 ## DAY 5(15-05-2023)
 
-**Program 7:- Tinkercad, working of analog potentiometer using an ARDUINO**
+**PROGRAM 7:- Tinkercad, working of analog potentiometer using an ARDUINO**
 
 ```
 
@@ -157,6 +157,108 @@ void loop() {
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2014-14-35.png)
 
 [Tinker this working of analog potentiometer using an ARDUINO](https://www.tinkercad.com/things/cWcHioKYK4y)
+
+**PROGRAM 8:- 
+
+```
+
+// C++ code
+//
+void setup()
+{
+  pinMode(2, OUTPUT);
+  pinMode(3,OUTPUT);
+  pinMode(4,OUTPUT);
+  pinMode(5,OUTPUT);
+  pinMode(6,OUTPUT);
+  pinMode(7,OUTPUT);
+  pinMode(8,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(2, LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,HIGH);
+  delay(1000); // Wait for 1000 millisecond(s
+  digitalWrite(4,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(2,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(7,HIGH);
+  digitalWrite(4,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  delay(1000);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(2,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(5,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(3,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(3,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(1000);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(1000);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  delay(1000);
+  
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+```
+
+![no image]()
 
 
 
