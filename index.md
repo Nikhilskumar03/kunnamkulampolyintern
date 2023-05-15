@@ -152,7 +152,7 @@ void loop() {
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2014-14-35.png)
 
-[Tinker this working of analog potentiometer using an ARDUINO]()
+[Tinker this working of analog potentiometer using an ARDUINO](https://www.tinkercad.com/things/cWcHioKYK4y)
 
 
 
