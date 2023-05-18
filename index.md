@@ -384,7 +384,7 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-18%2011-47-58.png)
 
-[Tinker this working of 7 segment with a delay of the value of potentiometre using an ARDUINO]()
+[Tinker this working of 7 segment with a delay of the value of potentiometre using an ARDUINO](https://www.tinkercad.com/things/i3mqs5O6zya)
 
 
 
