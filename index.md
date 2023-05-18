@@ -260,7 +260,18 @@ void loop()
 
 ![no image](https://github.com/Nikhilskumar03/kunnamkulampolyintern/blob/main/image/Screenshot%20from%202023-05-15%2015-32-59.png)
 
-[Tinker this working of 7 segment using an ARDUINO](https://www.tinkercad.com/things/eOdNtEzZ7Br)
+[Tinker this working of 7 segment using an ARDUINO](https://www.tinkercad.com/things/eOdNtEzZ7Br)\
+
+
+## DAY 6(16-05-2023)
+
+**PROGRAM 9:- Tinkercad, created a 3D car design using basic shapes**\
+
+
+![no image]()
+
+
+[Tinker this 3D car design using basic shapes]()
 
 
 
