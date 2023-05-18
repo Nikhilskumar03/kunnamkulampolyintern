@@ -274,6 +274,15 @@ void loop()
 [Tinker this 3D car design using basic shapes](https://www.tinkercad.com/things/g3jHmGlRQkh)
 
 
+## DAY 8(18-05-2023)
+
+**PROGRAM 10:- Tinkercad, working of 7 segment with a delay of the value of potentiometre using an ARDUINO**
+
+![no image]()
+
+
+
+
 
 
 
